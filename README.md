@@ -3,7 +3,7 @@
 This repository contains the source code and instructions for Dockerizing a Nodejs application. It walks you through the process of creating a Dockerfile, building a Docker image, and running a container for your Node.js application.
 
 <br>
-<div style="text-align: center;">
+<div align="center">
   <img src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*hu_kaw35ijYchxhVgU01fw.jpeg" alt="Nodejs Application" width="70%">
 </div>
 
@@ -32,7 +32,7 @@ docker ps
 
 You can now access the application on your browser at http://localhost:8030.
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*nTwBDGtXmTX-9T7DEVGzYg.png" alt="Nodejs Application" width="70%">
 </div>
 <br>
