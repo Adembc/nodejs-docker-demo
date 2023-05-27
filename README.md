@@ -39,7 +39,7 @@ You can now access the application on your browser at http://localhost:8030.
 </div>
 <br>
 
-## Find this library useful? ❤️
+## Find this repo useful? ❤️
 
 Support it by joining **[stargazers](https://github.com/Adembc/nodejs-docker-demo/stargazers)** for this repository⭐️. <br>
 Also, **[follow me](https://github.com/adembc)** on GitHub 🤩
