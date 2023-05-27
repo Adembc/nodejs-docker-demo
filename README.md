@@ -2,7 +2,7 @@
 
 This repository contains the source code and instructions for Dockerizing a Nodejs application. It walks you through the process of creating a Dockerfile, building a Docker image, and running a container for your Node.js application.
 
-### You can find a more detailed guide on Dockerizing a Nodejs application in the following [Medium](bit.ly/3qfYkbH) article .
+### You can find a more detailed guide on Dockerizing a Nodejs application in the following [Medium](https://bit.ly/3qfYkbH) article .
 
 <br>
 <div align="center">
